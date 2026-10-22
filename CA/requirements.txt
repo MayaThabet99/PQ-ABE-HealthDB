@@ -1,0 +1,14 @@
+bcrypt
+cryptography
+matplotlib
+numpy
+pqcrypto
+pycparser
+pycryptodome
+pyparsing
+python-dateutil
+requests
+setuptools
+sortedcontainers
+psycopg2
+psutil
